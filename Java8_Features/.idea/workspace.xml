@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d9ca12e-b424-4b65-b22f-462a29d63f70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YFSQ7MTPB7ezEBdHOAecrXa43G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.FindFirst">
+    <configuration name="AverageInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8_exercise.AverageInt" />
+      <module name="Java8_Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8_exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8_exercise.FindFirst" />
+      <module name="Java8_Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8_exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListCollect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8_exercise.ListCollect" />
+      <module name="Java8_Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8_exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleInherit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8_exercise.MultipleInherit" />
+      <module name="Java8_Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8_exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8_exercise.Sum" />
+      <module name="Java8_Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8_exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindFirst" />
+        <item itemvalue="Application.AverageInt" />
+        <item itemvalue="Application.Sum" />
+        <item itemvalue="Application.ListCollect" />
+        <item itemvalue="Application.MultipleInherit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d9ca12e-b424-4b65-b22f-462a29d63f70" name="Default Changelist" comment="" />
+      <created>1582536829544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582536829544</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="439" y="100" width="544" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1582622183080">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="439" y="100" width="544" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1582622183080" />
+    <state x="587" y="184" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582603687068">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="587" y="184" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1582603687068" />
+    <state width="1253" height="240" key="GridCell.Tab.0.bottom" timestamp="1582628772176">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="240" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582628772176" />
+    <state width="1253" height="240" key="GridCell.Tab.0.center" timestamp="1582628772176">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="240" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582628772176" />
+    <state width="1253" height="240" key="GridCell.Tab.0.left" timestamp="1582628772176">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="240" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582628772176" />
+    <state width="1253" height="240" key="GridCell.Tab.0.right" timestamp="1582628772176">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="240" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1582628772176" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1582600040346">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1582600040346" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1582608423267">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1582608423267" />
+    <state x="461" y="27" width="500" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1582616981572">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="461" y="27" width="500" height="741" key="refactoring.ChangeSignatureDialog/67.27.1299.741@67.27.1299.741" timestamp="1582616981572" />
+  </component>
+</project>
