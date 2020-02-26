@@ -1,0 +1,12 @@
+Used for general refrences
+https://docs.gradle.org/current/userguide/userguide.html
+
+Understanding Wrappers and how to change version
+https://medium.com/@bherbst/understanding-the-gradle-wrapper-a62f35662ab7
+
+Creating multiple source directories
+https://mkyong.com/gradle/gradle-create-java-project-structure-automatically/
+
+Gson Maven repository
+https://mvnrepository.com/artifact/com.google.code.gson/gson/2.3.1
+
