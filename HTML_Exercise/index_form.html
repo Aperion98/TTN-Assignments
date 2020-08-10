@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href="css/style_form.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <div class="my-header">
+    <h1 style="color: #00BB7B; font-family: Arial; font-weight: normal;">To The New</h1>
+    <a href="#"><span style="border: 5px; padding-right: 20px; padding-left: 20px; color: #00BB7B"> Quick help</span></a>
+    <a href="#"><span style="color: #00BB7B">Home</span></a>
+  </div>
+  <div style="clear:both"></div>
+  <hr/>
+  <form>
+  <div id = "div2">
+  <h3 style= "color: azure;">Bug Report</h3>
+  </div>
+  <div class ="div1">
+    <label for="fname">Title:*</label>
+    <input type="text" id="fname" name="Title" placeholder="Insert title here" required>
+    <br>
+    <label for="lname">Description:*</label>
+    <br>
+    <textarea style="width: 100%" id="lname" rows="5"></textarea>
+    <br>
+    <label for="OS">Operating System</label>
+    <br>
+    <select id="OS" name="OS">
+      <option value="Windows 10">Windows</option>
+      <option value="Ubuntu">Ubuntu</option>
+      <option value="MacOS">MacOS</option>
+    </select>
+    <br>
+    <label for="pro">Product:*</label>
+    <select id="pro" name="pro">
+      <option value="pro1">Product 1</option>
+      <option value="pro2">Product 2</option>
+      <option value="pro3">Product 3</option>
+    </select>
+    <br>
+    <br>
+    <label for="ver">Version:*</label>
+    <br>
+    <input type="number" id="ver" name="version" min="0" max="5" value="0" placeholder="input version">
+    <br>
+    <br>
+    <label for="lic">Licence</label>
+    <br>
+    <input type=radio name=licence value=free checked> free licence
+    <input type=radio name=licence value=buisness > buisness
+    <br>
+    <br>
+    <label for="sec">Security</label>
+    <select id="sec" name="sec">
+      <option value="sec1">Normal</option>
+      <option value="sec2">Moderate</option>
+      <option value="sec3">Critical</option>
+    </select>
+    <br>
+      <br>
+      Select files: <input style="direction: rtl" type="file" name="myFile" multiple id="lol"><br>
+      <br>
+    <input id = "1001" type="submit" value="Submit" style="width: 30%; float: right;">  
+    <br>
+    <br>
+  </div>
+  </form>
+
+</body>
+</html>
